@@ -31,8 +31,8 @@ TEXT-SQL-LLM/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/alaaeid2/text-sql-llm.git
-cd text-sql-llm
+git clone https://github.com/Alaaeid2/Text2SQL-LLM.git
+cd Text2SQL-LLM
 ```
 
 ### 2. Install Dependencies
