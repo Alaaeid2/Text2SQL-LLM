@@ -20,7 +20,6 @@ TEXT-SQL-LLM/
 │── app.py              # Main Streamlit application
 │── database.py         # Script to create & populate the database
 │── student.db          # SQLite database file(created after running database.py)
-│── Pipfile             # Dependencies (pipenv)
 │── readme.md           # Project documentation
 │── requirements.txt    # Project requirements file
 ```
